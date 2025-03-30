@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: r_lib
+Version: 0.1
+Summary: Biblioteka do operacji na danych, matematycznych i tekstowych.
+Home-page: 
+Author: Robert Słotwiński
+Author-email: szx87407@student.szczecin.merito.pl
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Education
+Classifier: Operating System :: Microsoft :: Windows :: Windows 11
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+License-File: LICENSE.txt
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+<!--
+r_lib is a very simple library that simplifies simple tasks eg. adding two numbers or subtracting them.
+-->
