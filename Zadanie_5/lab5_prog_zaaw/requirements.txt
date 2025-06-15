@@ -1,0 +1,14 @@
+# Wymagania dla projektu wizualizacji danych
+# Lab 5 - Poszukiwanie bibliotek o określonej funkcjonalności
+
+# Podstawowe biblioteki do wizualizacji
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Wsparcie dla danych
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Opcjonalnie - dla Jupyter notebooks
+# jupyter>=1.0.0
+# ipykernel>=6.0.0
